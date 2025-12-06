@@ -1,6 +1,6 @@
 # Weather Buddy ☀️🌧️ (v2)
 
-Weather Buddy is a cute, interactive weather application built using **Expo + React Native**, with a small **MVVM-style** architecture and a React Native Web browser view.
+Weather Buddy is a interactive weather application built using **Expo + React Native**, with a small **MVVM-style** architecture and a React Native Web browser view.
 
 It uses the free **Open-Meteo** API (no key required) to show:
 
@@ -170,4 +170,3 @@ These scripts run `npm install` (if needed) and then `npm start`.
   - Open-Meteo APIs via `fetch`.
   - `getWeatherIcon` and `getWeatherGIF` helpers to choose icons & backgrounds.
 
-This README should give a quick tour to anyone opening the app in an IDE or grading your project.
